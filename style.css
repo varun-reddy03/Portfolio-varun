@@ -3,6 +3,7 @@
     background-color: #9BE8D8;
     height: 680px;
     position: relative;
+    display: flex;
 }
 .var{
     margin-top: 100px;
